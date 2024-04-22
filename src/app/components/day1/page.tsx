@@ -1,6 +1,6 @@
-import "./ChalangeComponent.css";
+import "./challengeComponent.css";
 
-export default function ChalangeComponent() {
+export default function ChallengeComponent() {
     return (
         <div className="cartel">
             <div className="text">
